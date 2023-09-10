@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54a00efe-d8c1-4f61-b753-381732307474" name="Changes" comment="All Test" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QYJbG6p70UCMOVma3v1fQNCrAU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Mobile Automation Testing (Official Task)/Orko All/Apk&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Mobile Automation Testing (Official Task)\Orko All\Apk" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Mobile Automation Testing (Official Task)\Orko All\Apk" />
+      <recent name="D:\Mobile Automation Testing (Official Task)\Orko All\src" />
+      <recent name="D:\Mobile Automation Testing (Official Task)\Orko All\src\main\Orko Care" />
+      <recent name="D:\Mobile Automation Testing (Official Task)\Orko All\src\main\Authorised Access" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="doctor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AddFamilyMember.addFamilyMemberTest">
+    <configuration name="AddFamilyMember" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Orko All" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patientProfile.addMember.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patientProfile.addMember" />
+      <option name="MAIN_CLASS_NAME" value="patientProfile.addMember.AddFamilyMember" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddFamilyMember.addFamilyMemberTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Orko All" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patientProfile.addMember.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patientProfile.addMember" />
+      <option name="MAIN_CLASS_NAME" value="patientProfile.addMember.AddFamilyMember" />
+      <option name="METHOD_NAME" value="addFamilyMemberTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Notification" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Orko All" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="notification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="notification" />
+      <option name="MAIN_CLASS_NAME" value="notification.Notification" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecialiseDoctor.our_teamTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Orko All" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="doctor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="doctor" />
+      <option name="MAIN_CLASS_NAME" value="doctor.SpecialiseDoctor" />
+      <option name="METHOD_NAME" value="our_teamTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserFeedback.userFeedback_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Orko All" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ourTeam.doctorProfile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ourTeam.doctorProfile" />
+      <option name="MAIN_CLASS_NAME" value="ourTeam.doctorProfile.UserFeedback" />
+      <option name="METHOD_NAME" value="userFeedback_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AddFamilyMember.addFamilyMemberTest" />
+        <item itemvalue="TestNG.AddFamilyMember" />
+        <item itemvalue="TestNG.Notification" />
+        <item itemvalue="TestNG.SpecialiseDoctor.our_teamTest" />
+        <item itemvalue="TestNG.UserFeedback.userFeedback_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zahan\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54a00efe-d8c1-4f61-b753-381732307474" name="Changes" comment="" />
+      <created>1685524652997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685524652997</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add Family Member">
+      <created>1694081106337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694081106338</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Family Member">
+      <created>1694081128532</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694081128532</updated>
+    </task>
+    <task id="LOCAL-00003" summary="All Test">
+      <created>1694084493423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694084493423</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Family Member" />
+    <MESSAGE value="All Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Test" />
+  </component>
+</project>
