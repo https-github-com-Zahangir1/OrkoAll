@@ -23,7 +23,7 @@ public class AddFamilyMember_Page {
     WebElement allow;
     @FindBy(id ="com.orko.all:id/etFullName")
     WebElement fullName;
-    @FindBy(id ="com.orko.all:id/til_phone")
+    @FindBy(id ="com.orko.all:id/etMobileNo")
     WebElement phoneNumber;
     @FindBy(id ="com.orko.all:id/etYY")
     WebElement year;
@@ -41,6 +41,8 @@ public class AddFamilyMember_Page {
     WebElement profession;
     @FindBy(id ="com.orko.all:id/autoLocation")
     WebElement location;
+    @FindBy(id ="com.orko.all:id/searchBox")
+    WebElement searchLocation;
     @FindBy(id ="com.orko.all:id/ivGoNext")
     WebElement complete;
 
@@ -64,10 +66,10 @@ public class AddFamilyMember_Page {
     public void set_phoneNumber(String phn){
         phoneNumber.sendKeys(phn);
     }
-    public void set_year(String y){
+    public void set_on_year(String y){
         year.sendKeys(y);
     }
-    public void set_month(String m){
+    public void set_on_month(String m){
         month.sendKeys(m);
     }
     public WebElement click_on_gender(){
@@ -85,8 +87,11 @@ public class AddFamilyMember_Page {
     public WebElement click_on_profession(){
         return profession;
     }
-    public void set_location(String state){
-        location.sendKeys(state);
+    public WebElement click_on_location(){
+        return location;
+    }
+    public void set_on_searchLocation(String l){
+        searchLocation.sendKeys(l);
     }
     public WebElement click_on_completeBtn(){
         return complete;

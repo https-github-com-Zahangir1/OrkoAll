@@ -29,9 +29,9 @@ public class AddFamilyMember extends BaseClass {
         Thread.sleep(2000);
         family.set_phoneNumber("01000292950");
         Thread.sleep(3000);
-        family.set_year("25");
+        family.set_on_year("25");
         Thread.sleep(2000);
-        family.set_month("05");
+        family.set_on_month("05");
         Thread.sleep(2000);
         family.click_on_gender().click();
         Thread.sleep(2000);
@@ -41,9 +41,11 @@ public class AddFamilyMember extends BaseClass {
         Thread.sleep(2000);
         family.click_on_disease().click();
         Thread.sleep(2000);
-        family.click_on_profession().click();
+        /*family.click_on_profession().click();
+        Thread.sleep(2000);*/
+        family.click_on_location().click();
         Thread.sleep(2000);
-        family.set_location("");
+        family.set_on_searchLocation("Adabor, Dhaka");
         Thread.sleep(2000);
         family.click_on_completeBtn().click();
         Thread.sleep(2000);
