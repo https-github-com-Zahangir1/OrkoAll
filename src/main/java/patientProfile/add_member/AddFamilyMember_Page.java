@@ -43,6 +43,8 @@ public class AddFamilyMember_Page {
     WebElement location;
     @FindBy(id ="com.orko.all:id/searchBox")
     WebElement searchLocation;
+    @FindBy(id ="com.orko.all:id/text1")
+    WebElement select_location;
     @FindBy(id ="com.orko.all:id/ivGoNext")
     WebElement complete;
 
@@ -92,6 +94,9 @@ public class AddFamilyMember_Page {
     }
     public void set_on_searchLocation(String l){
         searchLocation.sendKeys(l);
+    }
+    public WebElement click_on_select_location(){
+        return select_location;
     }
     public WebElement click_on_completeBtn(){
         return complete;

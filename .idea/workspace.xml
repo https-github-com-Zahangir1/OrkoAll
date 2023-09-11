@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54a00efe-d8c1-4f61-b753-381732307474" name="Changes" comment="All Test" />
+    <list default="true" id="54a00efe-d8c1-4f61-b753-381732307474" name="Changes" comment="All Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/authorised_Access/splashScreen/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/authorised_Access/splashScreen/SplashScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patientProfile/add_member/AddFamilyMember_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patientProfile/add_member/AddFamilyMember_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patientProfile/profilePage/Prescription_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patientProfile/profilePage/Prescription_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/patientProfile/addMember/AddFamilyMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/patientProfile/addMember/AddFamilyMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/patientProfile/profile/Prescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/patientProfile/profile/Prescription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/authorised_Access/splashScreen/SplashScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/authorised_Access/splashScreen/SplashScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/patientProfile/add_member/AddFamilyMember_Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patientProfile/add_member/AddFamilyMember_Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/patientProfile/profilePage/Prescription_Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patientProfile/profilePage/Prescription_Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/patientProfile/addMember/AddFamilyMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/patientProfile/addMember/AddFamilyMember.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/patientProfile/profile/Prescription.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/patientProfile/profile/Prescription.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +73,7 @@
       <recent name="doctor" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.AddFamilyMember.addFamilyMemberTest">
+  <component name="RunManager" selected="TestNG.Prescription">
     <configuration name="AddFamilyMember" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Orko All" />
       <extension name="coverage">
@@ -114,17 +126,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpecialiseDoctor.our_teamTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Notification.notification_Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Orko All" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="doctor.*" />
+          <option name="PATTERN" value="notification.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="doctor" />
-      <option name="MAIN_CLASS_NAME" value="doctor.SpecialiseDoctor" />
-      <option name="METHOD_NAME" value="our_teamTest" />
+      <option name="PACKAGE_NAME" value="notification" />
+      <option name="MAIN_CLASS_NAME" value="notification.Notification" />
+      <option name="METHOD_NAME" value="notification_Test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -132,18 +144,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserFeedback.userFeedback_test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Prescription" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Orko All" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ourTeam.doctorProfile.*" />
+          <option name="PATTERN" value="patientProfile.profile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ourTeam.doctorProfile" />
-      <option name="MAIN_CLASS_NAME" value="ourTeam.doctorProfile.UserFeedback" />
-      <option name="METHOD_NAME" value="userFeedback_test" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="patientProfile.profile" />
+      <option name="MAIN_CLASS_NAME" value="patientProfile.profile.Prescription" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -152,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Prescription" />
+        <item itemvalue="TestNG.Notification.notification_Test" />
         <item itemvalue="TestNG.AddFamilyMember.addFamilyMemberTest" />
         <item itemvalue="TestNG.AddFamilyMember" />
         <item itemvalue="TestNG.Notification" />
-        <item itemvalue="TestNG.SpecialiseDoctor.our_teamTest" />
-        <item itemvalue="TestNG.UserFeedback.userFeedback_test" />
       </list>
     </recent_temporary>
   </component>
