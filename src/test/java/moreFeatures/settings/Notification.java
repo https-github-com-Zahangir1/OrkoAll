@@ -1,2 +1,4 @@
-package moreFeatures.settings;public class Notification {
+package moreFeatures.settings;
+
+public class Notification {
 }

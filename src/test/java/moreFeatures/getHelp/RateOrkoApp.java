@@ -1,2 +1,4 @@
-package moreFeatures.getHelp;public class RateOrkoApp {
+package moreFeatures.getHelp;
+
+public class RateOrkoApp {
 }

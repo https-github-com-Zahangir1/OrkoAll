@@ -6,14 +6,37 @@
   <component name="ChangeListManager">
     <list default="true" id="54a00efe-d8c1-4f61-b753-381732307474" name="Changes" comment="All Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/consultation/MihirChatBot_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/consultation/MihirChatBot_Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/consultation/Upcoming_Appointment_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/consultation/Upcoming_Appointment_Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/consultation/MihirChatBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/consultation/MihirChatBot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/consultation/Upcoming_Appointment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/consultation/Upcoming_Appointment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/consultation/MihirChatBot_Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/consultation/MihirChatBot_Page.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/consultation/Upcoming_Appointment_Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/consultation/Upcoming_Appointment_Page.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/consultation/MihirChatBot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/consultation/MihirChatBot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/consultation/Upcoming_Appointment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/consultation/Upcoming_Appointment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/authorised_Access/splashScreen/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/authorised_Access/splashScreen/SplashScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moreFeatures/feedBack/Call_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moreFeatures/feedBack/Call_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moreFeatures/feedBack/Chat_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moreFeatures/feedBack/Chat_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moreFeatures/feedBack/Prescription_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moreFeatures/feedBack/Prescription_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moreFeatures/feedBack/Profile_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moreFeatures/feedBack/Profile_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moreFeatures/feedBack/Search_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moreFeatures/feedBack/Search_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moreFeatures/getHelp/About_Us_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moreFeatures/getHelp/About_Us_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moreFeatures/getHelp/Contact_Us_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moreFeatures/getHelp/Contact_Us_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moreFeatures/getHelp/FAQ_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moreFeatures/getHelp/FAQ_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moreFeatures/getHelp/Privacy_Policy_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moreFeatures/getHelp/Privacy_Policy_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moreFeatures/getHelp/Share_Orko_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moreFeatures/getHelp/Share_Orko_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moreFeatures/getHelp/Terms_Conditions_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moreFeatures/getHelp/Terms_Conditions_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/feedBack/Call.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/feedBack/Call.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/feedBack/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/feedBack/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/feedBack/Prescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/feedBack/Prescription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/feedBack/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/feedBack/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/feedBack/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/feedBack/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/About_Us.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/About_Us.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/Contact_Us.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/Contact_Us.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/FAQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/FAQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/Privacy_Policy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/Privacy_Policy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/RateOrkoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/RateOrkoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/Share_Orko.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/Share_Orko.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/Terms_Conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/getHelp/Terms_Conditions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/settings/Change_Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/settings/Change_Language.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/settings/Logout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/settings/Logout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/settings/Medicine_Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/settings/Medicine_Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/settings/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/settings/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/settings/Privacy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/settings/Privacy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/moreFeatures/settings/Statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/moreFeatures/settings/Statement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/notification/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/notification/Notification.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +57,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/moreFeatures/feedBack/Call_Page.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/consultation/MihirChatBot.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/moreFeatures/feedBack/Call.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,19 +70,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Mobile Automation Testing (Official Task)/Orko All/Apk&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "full.screen.before.presentation.mode": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/Orko PenDrive/Java-Cucumber-Appium-Flicker-main",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.customizations"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Mobile Automation Testing (Official Task)\Orko All\Apk" />
@@ -68,21 +95,23 @@
       <recent name="D:\Mobile Automation Testing (Official Task)\Orko All\src\main\Authorised Access" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="moreFeatures.feedBack" />
+      <recent name="moreFeatures.settings" />
       <recent name="doctor" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Upcoming_Appointment.upcoming_appointment_test">
-    <configuration name="AddFamilyMember.addFamilyMemberTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Terms_Conditions.terms_conditionTest">
+    <configuration name="FAQ.faqTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Orko All" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patientProfile.addMember.*" />
+          <option name="PATTERN" value="moreFeatures.getHelp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="patientProfile.addMember" />
-      <option name="MAIN_CLASS_NAME" value="patientProfile.addMember.AddFamilyMember" />
-      <option name="METHOD_NAME" value="addFamilyMemberTest" />
+      <option name="PACKAGE_NAME" value="moreFeatures.getHelp" />
+      <option name="MAIN_CLASS_NAME" value="moreFeatures.getHelp.FAQ" />
+      <option name="METHOD_NAME" value="faqTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -90,52 +119,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MihirChatBot.mihirChatBot_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Privacy_Policy" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Orko All" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="consultation.*" />
+          <option name="PATTERN" value="moreFeatures.getHelp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="consultation" />
-      <option name="MAIN_CLASS_NAME" value="consultation.MihirChatBot" />
-      <option name="METHOD_NAME" value="mihirChatBot_Test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Notification.notification_Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Orko All" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="notification.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="notification" />
-      <option name="MAIN_CLASS_NAME" value="notification.Notification" />
-      <option name="METHOD_NAME" value="notification_Test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Prescription" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Orko All" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="patientProfile.profile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="patientProfile.profile" />
-      <option name="MAIN_CLASS_NAME" value="patientProfile.profile.Prescription" />
+      <option name="PACKAGE_NAME" value="moreFeatures.getHelp" />
+      <option name="MAIN_CLASS_NAME" value="moreFeatures.getHelp.Privacy_Policy" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -143,17 +136,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Upcoming_Appointment.upcoming_appointment_test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Share_Orko" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Orko All" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="consultation.*" />
+          <option name="PATTERN" value="moreFeatures.getHelp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="consultation" />
-      <option name="MAIN_CLASS_NAME" value="consultation.Upcoming_Appointment" />
-      <option name="METHOD_NAME" value="upcoming_appointment_test" />
+      <option name="PACKAGE_NAME" value="moreFeatures.getHelp" />
+      <option name="MAIN_CLASS_NAME" value="moreFeatures.getHelp.Share_Orko" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Share_Orko.share_OrkoApp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Orko All" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moreFeatures.getHelp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="moreFeatures.getHelp" />
+      <option name="MAIN_CLASS_NAME" value="moreFeatures.getHelp.Share_Orko" />
+      <option name="METHOD_NAME" value="share_OrkoApp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Terms_Conditions.terms_conditionTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Orko All" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moreFeatures.getHelp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="moreFeatures.getHelp" />
+      <option name="MAIN_CLASS_NAME" value="moreFeatures.getHelp.Terms_Conditions" />
+      <option name="METHOD_NAME" value="terms_conditionTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -163,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Upcoming_Appointment.upcoming_appointment_test" />
-        <item itemvalue="TestNG.MihirChatBot.mihirChatBot_Test" />
-        <item itemvalue="TestNG.Prescription" />
-        <item itemvalue="TestNG.Notification.notification_Test" />
-        <item itemvalue="TestNG.AddFamilyMember.addFamilyMemberTest" />
+        <item itemvalue="TestNG.Terms_Conditions.terms_conditionTest" />
+        <item itemvalue="TestNG.Share_Orko" />
+        <item itemvalue="TestNG.Share_Orko.share_OrkoApp" />
+        <item itemvalue="TestNG.Privacy_Policy" />
+        <item itemvalue="TestNG.FAQ.faqTest" />
       </list>
     </recent_temporary>
   </component>
@@ -234,5 +262,9 @@
     <MESSAGE value="Add Family Member" />
     <MESSAGE value="All Test" />
     <option name="LAST_COMMIT_MESSAGE" value="All Test" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

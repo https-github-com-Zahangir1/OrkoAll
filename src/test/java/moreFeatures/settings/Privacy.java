@@ -1,2 +1,4 @@
-package moreFeatures.settings;public class Privacy {
+package moreFeatures.settings;
+
+public class Privacy {
 }

@@ -2,6 +2,7 @@ package notification;
 
 import authorised_Access.splashScreen.SplashScreen;
 import base.BaseClass;
+import notification.NotificationPage;
 import org.testng.annotations.Test;
 
 public class Notification extends BaseClass {

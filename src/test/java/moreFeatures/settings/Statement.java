@@ -1,2 +1,4 @@
-package moreFeatures.settings;public class Statement {
+package moreFeatures.settings;
+
+public class Statement {
 }

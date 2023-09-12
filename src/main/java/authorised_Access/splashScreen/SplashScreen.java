@@ -28,7 +28,7 @@ public class SplashScreen {
         _all.setPhone_number("01000292933");
         Thread.sleep(2000);
         _all.click_on_nextBtn().click();
-        Thread.sleep(2000);
+        Thread.sleep(4000);
         _all.setVerify_otpOne("4");
         Thread.sleep(2000);
         _all.setVerify_otpTwo("4");

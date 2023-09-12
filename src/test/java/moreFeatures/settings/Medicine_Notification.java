@@ -1,2 +1,4 @@
-package moreFeatures.settings;public class Medicine_Notification {
+package moreFeatures.settings;
+
+public class Medicine_Notification {
 }
