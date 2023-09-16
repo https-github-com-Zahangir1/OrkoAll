@@ -1,4 +1,4 @@
-package patientProfile.profile;
+package appointment.profile;
 
 public class Image {
 }

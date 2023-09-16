@@ -1,4 +1,4 @@
-package patientProfile.profile;
+package appointment.profile;
 
 import authorised_Access.splashScreen.SplashScreen;
 import base.BaseClass;

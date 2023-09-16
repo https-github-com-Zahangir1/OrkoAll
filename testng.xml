@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Mobile Automation Testing (Official Task)/Orko All">
+        <classes>
+            <!--Priority 1 -->
+            <class name="credential.Register">
+                <methods>
+                    <include name="RegisterTest"/>
+                </methods>
+            </class>
+            <!--Priority 2 -->
+            <class name="credential.Login">
+                <methods>
+                    <include name="loginTest"/>
+                </methods>
+            </class>
+            <!--Priority 3 -->
+            <class name="appointment.Appointment">
+                <methods>
+                    <include name="appointmentTest"/>
+                </methods>
+            </class>
+            <!--Priority 4 -->
+            <class name="ourTeam.doctorProfile.DoctorProfile">
+                <methods>
+                    <include name="our_teamTest"/>
+                </methods>
+            </class>
+            <!--Priority 5 -->
+            <class name="ourTeam.doctorProfile.QuickCare">
+                <methods>
+                    <include name="quickCareTest"/>
+                </methods>
+            </class>
+            <!--Priority 6 -->
+            <class name="ourTeam.doctorProfile.SendMessage">
+                <methods>
+                    <include name="sendMessageTest"/>
+                </methods>
+            </class>
+            <!--Priority 7 -->
+            <class name="ourTeam.doctorProfile.BookAppointment">
+                <methods>
+                    <include name="bookAppointmentTest"/>
+                </methods>
+            </class>
+            <!--Priority 8 -->
+            <class name="ourTeam.doctorProfile.DoctorProfileShare">
+                <methods>
+                    <include name="doctorProfileShareTest"/>
+                </methods>
+            </class>
+            <!--Priority 9 -->
+            <class name="ourTeam.doctorProfile.UserFeedback">
+                <methods>
+                    <include name="userFeedback_test"/>
+                </methods>
+            </class>
+            <!--Priority 10 -->
+            <class name="doctor.SpecialiseDoctor">
+                <methods>
+                    <include name="our_teamTest"/>
+                </methods>
+            </class>
+            <!--Priority 11 -->
+            <class name="consultation.MihirChatBot">
+                <methods>
+                    <include name="mihirChatBot_Test"/>
+                </methods>
+            </class>
+            <!--Priority 12 -->
+            <class name="consultation.Upcoming_Appointment">
+                <methods>
+                    <include name="upcoming_appointment_test"/>
+                </methods>
+            </class>
+            <!--Priority 13 -->
+            <class name="notification.Notification">
+                <methods>
+                    <include name="notification_Test"/>
+                </methods>
+            </class>
+            <!--Priority 14 -->
+            <class name="patientProfile.addMember.AddFamilyMember">
+                <methods>
+                    <include name="addFamilyMemberTest"/>
+                </methods>
+            </class>
+            <!--Priority 15 -->
+            <class name="patientProfile.profile.Prescription">
+                <methods>
+                    <include name="prescriptionTest"/>
+                </methods>
+            </class>
+            <!--Priority 16 -->
+            <class name="patientProfile.profile.UpdateProfile">
+                <methods>
+                    <include name="updateProfileTest"/>
+                </methods>
+            </class>
+            <!--Priority 17 -->
+            <class name="moreFeatures.getHelp.FAQ">
+                <methods>
+                    <include name="faqTest"/>
+                </methods>
+            </class>
+            <!--Priority 18 -->
+            <class name="moreFeatures.getHelp.Terms_Conditions">
+                <methods>
+                    <include name="terms_conditionTest"/>
+                </methods>
+            </class>
+            <!--Priority 19 -->
+            <class name="moreFeatures.getHelp.Privacy_Policy">
+                <methods>
+                    <include name="privacy_policyTest"/>
+                </methods>
+            </class>
+            <!--Priority 20 -->
+            <class name="moreFeatures.getHelp.Contact_Us">
+                <methods>
+                    <include name="contactUsTest"/>
+                </methods>
+            </class>
+            <!--Priority 21 -->
+            <class name="moreFeatures.getHelp.Share_Orko">
+                <methods>
+                    <include name="share_OrkoApp"/>
+                </methods>
+            </class>
+            <!--Priority 22 -->
+            <class name="moreFeatures.getHelp.About_Us">
+                <methods>
+                    <include name="aboutUsTest"/>
+                </methods>
+            </class>
+            <!--Priority 23 -->
+            <class name="moreFeatures.feedBack.Search">
+                <methods>
+                    <include name="searchTest"/>
+                </methods>
+            </class>
+            <!--Priority 24 -->
+            <class name="moreFeatures.feedBack.Profile">
+                <methods>
+                    <include name="profileTest"/>
+                </methods>
+            </class>
+            <!--Priority 25 -->
+            <class name="moreFeatures.feedBack.Chat">
+                <methods>
+                    <include name="chatTest"/>
+                </methods>
+            </class>
+            <!--Priority 26 -->
+            <class name="moreFeatures.feedBack.Call">
+                <methods>
+                    <include name="callTest"/>
+                </methods>
+            </class>
+            <!--Priority 27 -->
+            <class name="moreFeatures.feedBack.Prescription">
+                <methods>
+                    <include name="prescriptionTest"/>
+                </methods>
+            </class>
+            <!--Priority 28 -->
+            <class name="moreFeatures.settings.Change_Language">
+                <methods>
+                    <include name="change_languageTest"/>
+                </methods>
+            </class>
+            <!--Priority 29 -->
+            <class name="moreFeatures.settings.Statement">
+                <methods>
+                    <include name="statementTest"/>
+                </methods>
+            </class>
+            <!--Priority 30 -->
+            <class name="moreFeatures.settings.Logout">
+                <methods>
+                    <include name="logoutTest"/>
+                </methods>
+            </class>
+            <!--Priority 31 -->
+            <class name="home.Home">
+                <methods>
+                    <include name="homepage"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>

@@ -1,4 +1,4 @@
-package ourTeam.doctorProfile;
+package orkoCare.ourTeam.doctorProfile;
 
 import authorised_Access.splashScreen.SplashScreen;
 import base.BaseClass;
@@ -8,7 +8,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import orkoCare.ourTeam.doctorProfilePage.BookAppointmentPage;
 import orkoCare.ourTeam.doctorProfilePage.DoctorProfilePage;
-
 
 
 public class BookAppointment extends BaseClass {
@@ -53,8 +52,6 @@ public class BookAppointment extends BaseClass {
         book_ap.click_on_payBtn().click();
         Thread.sleep(3000);*/
         System.out.println("Payment Complete Successfully");
-
-
 
 
     }

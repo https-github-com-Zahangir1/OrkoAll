@@ -1,4 +1,4 @@
-package ourTeam.doctorProfile;
+package orkoCare.ourTeam.doctorProfile;
 
 import authorised_Access.splashScreen.SplashScreen;
 import base.BaseClass;

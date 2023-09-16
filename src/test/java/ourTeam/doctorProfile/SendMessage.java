@@ -1,4 +1,4 @@
-package ourTeam.doctorProfile;
+package orkoCare.ourTeam.doctorProfile;
 
 import authorised_Access.splashScreen.SplashScreen;
 import base.BaseClass;
@@ -26,7 +26,7 @@ public class SendMessage extends BaseClass {
         Thread.sleep(3000);
         msg.click_on_select_patient().click();
         Thread.sleep(3000);
-        msg.set_on_typeMessage("Good Evening! I need your help?");
+        msg.set_on_typeMessage("Good Morning Doctor. I don’t feel good.");
         Thread.sleep(3000);
         msg.click_on_sendBtn().click();
         Thread.sleep(5000);

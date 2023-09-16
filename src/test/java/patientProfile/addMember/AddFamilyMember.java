@@ -1,4 +1,4 @@
-package patientProfile.addMember;
+package notification.patientProfile.addMember;
 
 import authorised_Access.splashScreen.SplashScreen;
 import base.BaseClass;
